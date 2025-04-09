@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  padding-bottom: 200px;
+}
+
+html, body {
+  overflow-x: hidden !important;
+}

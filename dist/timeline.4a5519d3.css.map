@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAOA","sources":["src/app.css"],"sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  font-family: sans-serif;\n  padding-bottom: 200px;\n}\n\nhtml, body {\n  overflow-x: hidden !important;\n}\n"],"names":[],"version":3,"file":"timeline.4a5519d3.css.map","sourceRoot":"/__parcel_source_root/"}
