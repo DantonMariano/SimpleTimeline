@@ -15,3 +15,9 @@ I reviewed some of the timelines featured on the AWWWARDS website for inspiratio
 - How you would test this if you had more time.
 
 I would test for potential responsiveness issues that could arise with the animations. Additionally, I would evaluate the overall design and user experience to ensure that the website is both functional and user-friendly across different devices.
+
+## Starter code:
+
+1. Navigate to this project directory
+2. Run `npm install` to install dependencies
+3. Run `npm start` to initialize and connect to a node server with your default browser
