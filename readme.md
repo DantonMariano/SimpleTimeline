@@ -2,13 +2,16 @@
 
 - What you like about your implementation.
 
-I really enjoy the fact that even though it's simple, it's an ellegant fix to the issue, I've sacrificed some functionality because I believe I wouldn't be able to deliver the full product working with all its features while looking good and free of bugs.
+I really like the fact that, although the solution is simple, it's an elegant fix to the issue. I sacrificed some functionality because I believed I wouldn't be able to deliver the full product, with all its features, while maintaining a polished and bug-free experience.
+
 - What you would change if you were going to do it again.
 
-I'd change my approach to the issue by starting with a better interpretation of the issue, while I was developing I found out that the items had date ends which means that they would be better used in horizontal fashioned timeline with a calendar. (i've tried this approach unsuccesffuly and decided to go back to the vertical timeline with start dates)
+If I were to approach this again, I would start by gaining a better understanding of the issue. While developing, I realized that the items had end dates, which would have been better suited for a horizontally-oriented timeline with a calendar view. I attempted this approach unsuccessfully and decided to return to a vertical timeline, focusing on start dates instead.
+
 - How you made your design decisions. For example, if you looked at other timelines for inspiration, please note that.
 
-I've taken a look at some of the timelines available in the AWWWARDS websites, and decided to implement lenis with GSAP for smoothscroll while having simple 3d animations for the scroll effect
+I reviewed some of the timelines featured on the AWWWARDS website for inspiration. Based on what I saw, I decided to implement Lenis for smooth scrolling with GSAP, and added simple 3D animations to enhance the scrolling effect.
+
 - How you would test this if you had more time.
 
-I'd test for responsivity issues that could come up with the animations as well as the whole design website to see if its user friendly.
+I would test for potential responsiveness issues that could arise with the animations. Additionally, I would evaluate the overall design and user experience to ensure that the website is both functional and user-friendly across different devices.
